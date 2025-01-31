@@ -5,5 +5,5 @@
 To export the notebook to HTML while hiding code cells, run:
 
 ```bash
-jupyter nbconvert --to html --no-input --template plotly.tpl .\electricity_prices.ipynb
+jupyter nbconvert --to html --no-input --template classic .\electricity_prices.ipynb
 ```
